@@ -1,6 +1,6 @@
 ## Code Project
 
-- [model](model)
+- [bert_base_uncased](bert_base_uncased)
   - dir save the model
 
 - [data](data): data dir
